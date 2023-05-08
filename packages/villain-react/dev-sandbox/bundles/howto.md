@@ -1,0 +1,1 @@
+Change shit -> yarn start:react -> inspect -> last script INSIDE THE BODY -> right click -> open in new tab -> Ctrl + S -> GG EZ
